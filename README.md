@@ -15,3 +15,5 @@ Please respect the original creator and do not misuse this resource.
 - **Repository maintained by:** `veyn.`
 
 All credit for the dictionary itself belongs to SAT.
+
+Server: https://discord.gg/SP4CjJNdHU
