@@ -1,6 +1,6 @@
 # Last Letter — Casual Dictionary
 
-This repository contains a dictionary for the Casual mode of Roblox Last Letter. The dictionary should be fairly accurate, with an estimated accuracy of over 90%.
+This repository contains a dictionary for the Casual mode of Roblox Last Letter. The dictionary should be fairly accurate, with an estimated accuracy of over 98%.
 
 I obtained the dictionary from **SAT**, who deserves **100% of the credit** for the entire collection.
 
