@@ -1,0 +1,142 @@
+A (1)
+straight-a
+
+B (0)
+
+C (1)
+glu-c
+
+D (37)
+apptd
+breird
+contd
+heathbrd
+keywrd
+octavd
+reird
+slojd
+thatd
+third
+wanweird
+weird
+whatd
+yrivd
+eighty-third
+fifty-third
+forty-third
+you'd
+ninety-third
+seventy-third
+sixty-third
+ratio'd
+that'd
+there'd
+they'd
+thirty-third
+twenty-third
+what'd
+where'd
+who'd
+why'd
+demo'd
+dyno'd
+fatwa'd
+how'd
+mic'd
+one-idea'd
+
+E (2)
+maki-e
+sumi-e
+
+F (0)
+
+H (0)
+
+I (6)
+baha'i
+banna'i
+revi'i
+shevi'i
+shi'i
+hawai'i
+
+J (1)
+interj
+
+K (11)
+baulk
+caulk
+inculk
+kellegk
+sculk
+tatmjolk
+waulk
+high-k
+low-k
+ortho-k
+ultralow-k
+
+L (1)
+cacomixl
+
+M (2)
+houyhnhnm
+parhelnm
+
+N (8)
+bestrewn
+exhbn
+kloyzn
+overstrewn
+strewn
+unstrewn
+womxn
+cap'n
+
+O (3)
+continuo
+gyaru-o
+jinuo
+
+P (0)
+
+Q (3)
+buzuq
+lgbtq
+sub-q
+
+R (0)
+
+T (10)
+bonaght
+creaght
+eyght
+fldxt
+liszt
+naght
+owght
+thoght
+towght
+rova-t
+
+U (3)
+bai-u
+double-u
+non-u
+
+V (1)
+delta-v
+
+W (1)
+chivw
+
+Y (2)
+leeshyy
+roux-en-y
+
+Z (4)
+kloyz
+koksagyz
+krummholz
+kyrgyz
