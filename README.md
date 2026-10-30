@@ -11,7 +11,7 @@ Please respect the original creator and do not misuse this resource.
 ## Credits
 
 - **SAT** — Original dictionary creator and contributor (100% credit).
-- **Discord:** `satbruv`
+- **Discord:** `satbruv/satqxe`
 - **Repository maintained by:** `veyn.`
 
 All credit for the dictionary itself belongs to SAT.
