@@ -17,3 +17,5 @@ Please respect the original creator and do not misuse this resource.
 All credit for the dictionary itself belongs to SAT.
 
 Server: [https://discord.gg/SP4CjJNdHU](https://discord.gg/FQp36pkRT)
+
+Credits: 3% of the dictionary belongs to fragment and the rest is sat
