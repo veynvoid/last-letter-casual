@@ -1,8 +1,8 @@
-# Last Letter — Casual Dictionary
+# Last Letter — Casual/pro Dictionary
 
-This repository contains a dictionary for the Casual mode of Roblox Last Letter. The dictionary should be fairly accurate, with an estimated accuracy of over 98%.
+This repository contains a dictionary for the casual and pro mode of Roblox Last Letter. The dictionary should be fairly accurate, with an estimated accuracy of over 98%.
 
-I obtained the dictionary from **SAT**, who deserves **100% of the credit** for the entire collection.
+I obtained the dictionary from **SAT**, who deserves **98% of the credit** for the entire collection.
 
 This dictionary is **not intended for exploiting, cheating, or automating gameplay**. It has been released strictly for educational and community purposes, such as researching words, finding traps, analyzing suffixes, and developing legitimate Last Letter tools.
 
