@@ -18830,7 +18830,6 @@ appositions
 appositive
 appositively
 appositives
-apppetible
 appraisable
 appraisal
 appraisals
@@ -27939,7 +27938,6 @@ bacteroides
 bacteroids
 bacteruria
 bacterurias
-bactetiophage
 bactrian
 bactris
 bactrites
@@ -36882,7 +36880,6 @@ bewrought
 bewry
 bewusstseinslage
 bewusstseinslagen
-bewwept
 bexagliflozin
 bexarotene
 bey
@@ -38269,7 +38266,6 @@ bimillenaries
 bimillenary
 bimillenial
 bimillenium
-bimillennia
 bimillennial
 bimillennials
 bimillennium
@@ -39584,7 +39580,6 @@ bishopling
 bishopric
 bishoprics
 bishops
-bishopscap
 bishopship
 bishopstool
 bishopweed
@@ -41654,7 +41649,6 @@ blotting
 blottingly
 blottings
 blotto
-blottto
 blotty
 bloubiskop
 bloubok
@@ -43445,7 +43439,6 @@ bonniness
 bonninesses
 bonnive
 bonnne
-bonnnes
 bonnock
 bonnocks
 bonnwis
@@ -69091,7 +69084,6 @@ cirsophthalmia
 cirsotome
 cirsotomies
 cirsotomy
-cirterion
 ciruela
 cirurgian
 ciruses
@@ -79217,7 +79209,6 @@ conscriptionist
 conscriptions
 conscriptive
 conscripts
-conscripttion
 consderations
 consecrate
 consecrated
@@ -80543,7 +80534,6 @@ contratempo
 contratenor
 contraterrene
 contrats
-contratulations
 contravalence
 contravallation
 contravariant
@@ -82956,7 +82946,6 @@ correlators
 correligionist
 correligionists
 correllated
-correllation
 correllations
 corrente
 correo
@@ -90610,7 +90599,6 @@ currentness
 currentnesses
 currents
 currentwise
-curricla
 curricle
 curricled
 curricles
@@ -94668,7 +94656,6 @@ dazzlingly
 dazzlingness
 dazzlings
 dbms
-dbridement
 dbrn
 dc
 dca
@@ -101712,7 +101699,6 @@ desideratives
 desideratum
 desiderium
 desideriums
-desiderta
 desidiose
 desidious
 desight
@@ -108296,7 +108282,6 @@ discreetnesses
 discrepance
 discrepances
 discrepancies
-discrepancries
 discrepancy
 discrepant
 discrepantly
@@ -110964,7 +110949,6 @@ distinguishes
 distinguishing
 distinguishingly
 distinguishment
-distintion
 distitle
 distn
 distoclusion
@@ -112177,7 +112161,6 @@ dodecagonal
 dodecagons
 dodecagynian
 dodecagynous
-dodecaheddra
 dodecahedra
 dodecahedral
 dodecahedric
@@ -120838,7 +120821,6 @@ elec
 elecampane
 elecampanes
 elechi
-elecive
 elecives
 elect
 electabilities
@@ -121569,7 +121551,6 @@ elegizing
 elegy
 eleidin
 elektra
-elelments
 elem
 eleme
 element
@@ -122193,7 +122174,6 @@ emails
 emajagua
 emalangeni
 emalangenis
-emamelware
 emanant
 emanate
 emanated
@@ -123679,7 +123659,6 @@ emus
 emuscation
 emusified
 emusifies
-emusify
 emusifying
 emusive
 emyd
@@ -124450,7 +124429,6 @@ encyclopedisms
 encyclopedist
 encyclopedists
 encyclopedize
-encydlopaedic
 encyrtid
 encyrtidae
 encyst
@@ -130840,7 +130818,6 @@ essenis
 essenism
 essenisms
 essenize
-essentia
 essential
 essentialisation
 essentialisations
@@ -134006,7 +133983,6 @@ exdividend
 exeat
 exeats
 exec
-execeptional
 execrable
 execrableness
 execrablenesses
@@ -135500,7 +135476,6 @@ exspoliation
 exspuition
 exsputory
 exstemporal
-exstemporaneous
 exstill
 exstimulate
 exstipulate
@@ -135742,7 +135717,6 @@ extincture
 extinctures
 extine
 extines
-extinguised
 extinguish
 extinguishable
 extinguishant
@@ -146449,7 +146423,6 @@ forbar
 forbare
 forbarred
 forbathe
-forbbore
 forbborne
 forbear
 forbearable
@@ -152925,7 +152898,6 @@ gallerias
 galleried
 galleries
 galleriidae
-galleriies
 gallerist
 gallerists
 gallery
@@ -157430,7 +157402,6 @@ gids
 gidyea
 gie
 gieaway
-gieaways
 gied
 gieing
 gien
@@ -157743,7 +157714,6 @@ gimbaljawed
 gimballed
 gimballing
 gimbals
-gimbawawed
 gimberjawed
 gimble
 gimblet
@@ -184766,7 +184736,6 @@ identicalness
 identicalnesses
 identies
 identifer
-identifers
 identifiability
 identifiable
 identifiableness
@@ -185706,7 +185675,6 @@ illuminists
 illuminize
 illuminometer
 illuminous
-illumonate
 illupi
 illupis
 illure
@@ -186913,7 +186881,6 @@ impeccance
 impeccancies
 impeccancy
 impeccant
-impeccunious
 impectinate
 impecuniary
 impecuniosities
@@ -188032,7 +187999,6 @@ imshy
 imsonic
 imu
 imvia
-in
 inabilities
 inability
 inable
@@ -188340,7 +188306,6 @@ inavolisib
 inaxon
 inbardge
 inbassat
-inbbred
 inbd
 inbe
 inbeaming
@@ -192239,7 +192204,6 @@ inisles
 inisling
 inissuable
 init
-inital
 initial
 initialed
 initialer
@@ -195553,7 +195517,6 @@ internuncial
 internuncially
 internunciary
 internunciatory
-internunciess
 internuncio
 internuncios
 internuncioship
@@ -197153,7 +197116,6 @@ intubation
 intubationist
 intubations
 intubator
-intubatting
 intube
 intue
 intuent
@@ -203844,7 +203806,6 @@ justicies
 justicing
 justico
 justicoat
-justifably
 justifiabilities
 justifiability
 justifiable
@@ -206251,7 +206212,6 @@ keyword
 keywords
 keyworker
 keyworkers
-keywrd
 kgotla
 kgotlas
 khaan
@@ -212198,7 +212158,6 @@ laryngitic
 laryngitides
 laryngitis
 laryngitises
-laryngitus
 laryngocele
 laryngocentesis
 laryngofission
@@ -219733,7 +219692,6 @@ longisection
 longish
 longitude
 longitudes
-longitudianl
 longitudinal
 longitudinally
 longjaw
@@ -232589,7 +232547,6 @@ metabotropic
 metabranchial
 metabrushite
 metabular
-metacapi
 metacarpal
 metacarpale
 metacarpals
@@ -236355,7 +236312,6 @@ mineowner
 miner
 mineragraphic
 mineragraphy
-mineraiogic
 mineral
 mineralisable
 mineralisation
@@ -243208,7 +243164,6 @@ morphologies
 morphologist
 morphologists
 morphology
-morpholoical
 morphometric
 morphometrical
 morphometrically
@@ -252185,7 +252140,6 @@ newsmagazines
 newsmaker
 newsmakers
 newsman
-newsmanmen
 newsmen
 newsmonger
 newsmongering
@@ -266810,7 +266764,6 @@ oidioid
 oidiomycosis
 oidiomycotic
 oidium
-oidwlfe
 oie
 oii
 oik
@@ -279526,7 +279479,6 @@ overzealousness
 overzealousnesses
 overzeals
 ovest
-ovewound
 ovey
 ovibos
 oviboses
@@ -300507,7 +300459,6 @@ plasmalogen
 plasmaphaeresis
 plasmaphereses
 plasmapheresis
-plasmaphoresisis
 plasmas
 plasmase
 plasmasol
@@ -315440,7 +315391,6 @@ probabilists
 probabilities
 probability
 probabilize
-probabl
 probable
 probableness
 probables
@@ -316493,7 +316443,6 @@ programmes
 programming
 programmings
 programmist
-programmng
 programs
 progravid
 progrede
@@ -318897,7 +318846,6 @@ protoxidized
 protoxids
 protoxylem
 protoxylems
-protoypes
 protozoa
 protozoacidal
 protozoacide
@@ -325540,7 +325488,6 @@ questioningly
 questionings
 questionist
 questionists
-questionle
 questionless
 questionlessly
 questionlessness
@@ -330164,7 +330111,6 @@ reascent
 reascents
 reascertain
 reascertainment
-reasearch
 reashlar
 reasiness
 reask
@@ -336204,7 +336150,6 @@ religiouses
 religiously
 religiousness
 religiousnesses
-reliiant
 relime
 relimit
 relimitation
@@ -341821,7 +341766,6 @@ reveur
 reveurs
 reveuse
 reveuses
-reveverberatory
 revibrant
 revibrate
 revibrated
@@ -348812,7 +348756,6 @@ safecrackers
 safecracking
 safecrackings
 safed
-safegaurds
 safeguard
 safeguarded
 safeguarder
@@ -353188,7 +353131,6 @@ scazons
 scazontes
 scazontic
 scazontics
-scclera
 sceat
 sceats
 sceatt
@@ -354637,7 +354579,6 @@ scolecoid
 scolecology
 scolecophagous
 scolecospore
-scoleryng
 scolex
 scoley
 scolia
@@ -382276,7 +382217,6 @@ stedhorses
 steding
 stedman
 steds
-steeadying
 steed
 steeded
 steedied
@@ -393742,7 +393682,6 @@ superpositions
 superpositive
 superpositively
 superpositiveness
-superpossition
 superpower
 superpowered
 superpowerful
@@ -415216,7 +415155,6 @@ transrhenane
 transrhodanian
 transriverina
 transriverine
-transscriber
 transsegmental
 transsegmentally
 transsensual
@@ -418311,7 +418249,6 @@ triviums
 trivoltine
 trivvet
 triweeklies
-triweekliess
 triweekly
 triwet
 trix
@@ -429057,7 +428994,6 @@ underleveraged
 underli
 underlid
 underlie
-underlielay
 underlier
 underliers
 underlies
@@ -430318,7 +430254,6 @@ undiseased
 undisestablished
 undisfigured
 undisfranchised
-undisfulfilled
 undisgorged
 undisgraced
 undisguisable
@@ -443620,7 +443555,6 @@ unthorny
 unthorough
 unthoroughly
 unthoroughness
-unthoughful
 unthought
 unthoughted
 unthoughtedly
@@ -448779,7 +448713,6 @@ variably
 variac
 variadic
 variag
-variagles
 variance
 variances
 variancy
@@ -454083,7 +454016,6 @@ volvocaceous
 volvox
 volvoxes
 volvuli
-volvullus
 volvulus
 volvuluses
 volyer
@@ -456279,7 +456211,6 @@ wassermen
 wassie
 wassup
 wast
-wastabl
 wastable
 wastage
 wastages
@@ -466429,8 +466360,6 @@ zipping
 zippingly
 zippo
 zippos
-zipppier
-zipppiest
 zippy
 zips
 ziptop
@@ -491870,3 +491799,5 @@ zoophilite
 zoophilitic
 zoophilous
 zoophily
+arifama-miniafia
+sauk-suiattle
